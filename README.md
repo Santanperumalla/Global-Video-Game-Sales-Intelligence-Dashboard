@@ -251,7 +251,7 @@ The dashboard also includes a dynamic insights section summarizing important fin
 
 # 📷 Dashboard Preview
 
-<img width="1433" height="802" alt="image" src="https://github.com/user-attachments/assets/a7d15d70-fb72-4e0b-865f-8ff7dbf3cd69" />
+<img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/1859db1e-2d07-4750-80ef-91f31c0b9271" />
 
 ---
 
