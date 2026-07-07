@@ -251,7 +251,7 @@ The dashboard also includes a dynamic insights section summarizing important fin
 
 # 📷 Dashboard Preview
 
-<img width="1440" height="807" alt="VGS Dashboard" src="https://github.com/user-attachments/assets/1b4662d9-c1ea-438f-96a9-59577bb3c508" />
+<img width="1437" height="805" alt="image" src="https://github.com/user-attachments/assets/54b51627-202c-4f17-bc5c-8702a6bec11b" />
 
 ---
 
